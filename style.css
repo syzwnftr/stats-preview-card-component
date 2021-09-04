@@ -35,7 +35,7 @@ body {
   height: 100%;
   top: 0;
   background-color: hsl(277, 64%, 61%);
-  opacity: 0.55;
+  opacity: 0.6;
 }
 
 .padding-global {
@@ -112,10 +112,18 @@ body {
 }
 
 @media (min-width: 80.3125rem) {
+  main {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
   .container {
     max-width: 80%;
     display: flex;
-    margin: 6rem auto;
+    /* margin: 6rem auto; */
+    margin: 0 auto;
   }
 
   .section {
