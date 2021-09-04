@@ -6,8 +6,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-    <!-- - [Screenshot](#screenshot) -->
-    <!-- - [Links](#links) -->
+  - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -21,13 +21,16 @@ Challenge: to build a card component and get it looking as close to the design a
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
-<!--
 
-### Screenshot -->
+### Screenshot
 
-<!-- ### Links
+![](<./screenshots/stats-preview-card (desktop).png>)
 
-- Live Site URL: -->
+![](<./screenshots/stats-preview-card (mobile).png>)
+
+### Links
+
+- Live Site URL: https://syzwnftr.github.io/stats-preview-card-component/
 
 ## My process
 
