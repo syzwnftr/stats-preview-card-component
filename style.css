@@ -35,7 +35,8 @@ body {
   height: 100%;
   top: 0;
   background-color: hsl(277, 64%, 61%);
-  opacity: 0.6;
+  opacity: 0.95;
+  mix-blend-mode: multiply;
 }
 
 .padding-global {
